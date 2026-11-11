@@ -30,10 +30,10 @@ body {
   border-style: solid;           /*   added border style */
 }
 
-.child {
+.text.child {                /* added text  */
   color: rgb(0, 0, 0);
-  font-weight: 800;
-  font-size: 14px;
+  font-weight: 800;      
+  font-size: 16px;             /* from that increased fsize to 16  */
 }
 
 div.text {
